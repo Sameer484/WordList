@@ -1,4 +1,5 @@
 /nukeviet/admin/index.php?language=en&nv=users&op=edit&userid=1
+/admin.tar.gz
 /nukeviet/admin/index.php?language=en&nv=users&op=user_add
 /nukeviet/admin/index.php?language=en&nv=webtools&op=clearsystem
 /s20/tutorial/gradeable/01_simple_python
