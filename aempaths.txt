@@ -2,6 +2,11 @@
 .1.json 
 /.1.json
 /.1.xml
+/conten/.1.json 
+/conten/t.1.json
+/content.tidy.1.json
+/conten.json
+/conten/.tidy.infinity.json
 /.4.2.1...json
 /a.css
 / admin
