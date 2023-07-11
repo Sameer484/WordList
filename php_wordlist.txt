@@ -1,5 +1,6 @@
 admin-ajax.php
 index.php
+/common/config.php.new
 api.php
 guest.vary.php
 opensearch_desc.php
